@@ -1,0 +1,16 @@
+﻿  disp.cpp
+  main.cpp
+C:\C Program Projects\ネームバトラー\ネームバトラー\main.cpp(63,17): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+C:\C Program Projects\ネームバトラー\ネームバトラー\main.cpp(694,6): warning C4101: 'choice': ローカル変数は 1 度も使われていません。
+C:\C Program Projects\ネームバトラー\ネームバトラー\main.cpp(1050,42): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\C Program Projects\ネームバトラー\ネームバトラー\main.cpp(1050,32): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\C Program Projects\ネームバトラー\ネームバトラー\main.cpp(1055,44): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\C Program Projects\ネームバトラー\ネームバトラー\main.cpp(1055,32): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\C Program Projects\ネームバトラー\ネームバトラー\main.cpp(1089,42): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\C Program Projects\ネームバトラー\ネームバトラー\main.cpp(1089,32): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\C Program Projects\ネームバトラー\ネームバトラー\main.cpp(1094,43): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\C Program Projects\ネームバトラー\ネームバトラー\main.cpp(1094,32): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\C Program Projects\ネームバトラー\ネームバトラー\main.cpp(1328,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  コードを生成中...
+C:\C Program Projects\ネームバトラー\ネームバトラー\main.cpp(1341): warning C4715: 'check_name': 値を返さないコントロール パスがあります。
+  ネームバトラー.vcxproj -> C:\C Program Projects\ネームバトラー\Debug\ネームバトラー.exe

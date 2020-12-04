@@ -1,0 +1,14 @@
+﻿  disp.cpp
+  main.cpp
+c:\c program projects\ネームバトラー\ネームバトラー\main.cpp(63): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+c:\c program projects\ネームバトラー\ネームバトラー\main.cpp(694): warning C4101: 'choice': ローカル変数は 1 度も使われていません。
+c:\c program projects\ネームバトラー\ネームバトラー\main.cpp(1049): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\c program projects\ネームバトラー\ネームバトラー\main.cpp(1054): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\c program projects\ネームバトラー\ネームバトラー\main.cpp(1088): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\c program projects\ネームバトラー\ネームバトラー\main.cpp(1093): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\c program projects\ネームバトラー\ネームバトラー\main.cpp(1327): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  コード生成しています。
+c:\c program projects\ネームバトラー\ネームバトラー\main.cpp(1340): warning C4715: 'check_name': 値を返さないコントロール パスがあります。
+  All 43 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  ネームバトラー.vcxproj -> C:\C Program Projects\ネームバトラー\Release\ネームバトラー.exe
